@@ -1,12 +1,11 @@
 import axios from "axios";
 
 // TO DO: MOVE this to env file
-const TOKEN_URL =
-  "https://login.microsoftonline.com/5d471751-9675-428d-917b-70f44f9630b0/oauth2/v2.0/token";
+const TOKEN_URL = "add token url"
 
-const CLIENT_ID = "4208b947-f8dc-4a6f-bd26-52d0d60e2f57";
-const CLIENT_SECRET = "5b6685c6-5dea-4e6a-adb6-d0c510da6d08";
-const SCOPE = "https://pfc-ui-dev.nsn.com/.default";
+const CLIENT_ID = "add client id";
+const CLIENT_SECRET = "add secret";
+const SCOPE = "add scope";
 
 const BASE_URL = " https://pfc-nfort-dev.azurewebsites.net/api";
 
